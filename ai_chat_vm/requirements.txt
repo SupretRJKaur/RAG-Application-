@@ -1,0 +1,9 @@
+
+flask
+flask-cors
+google-generativeai
+markdown
+chromadb
+sentence-transformers
+embedding_functions
+PdfReader
