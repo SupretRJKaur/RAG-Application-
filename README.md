@@ -1,5 +1,8 @@
 # RAG-Application-📄Reference 
 
+**LINK FOR CHAT** **_(http://104.154.19.62:8080/)_** 
+
+
 1. Instruction codes assignment.pdf
 
 Contains: All Java assignment instructions and code snippets
